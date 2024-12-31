@@ -3,5 +3,6 @@ numpy
 seaborn
 
 dill
-
+xgboost
+catboost
 scikit-learn
